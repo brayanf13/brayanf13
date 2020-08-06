@@ -7,7 +7,7 @@ Sou um FullStack Developer, em busca sempre de melhorar a cada dia :computer:
  :rocket:  &nbsp; Estou trabalhando na **Exception Jr && Laboratório de Computação Científica (LCC)**
  <br/> :black_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e backend usando NodeJS
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Javascript
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, JavaScript & TypeScript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, GTA, séries e animes
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Brayan_Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/brayan-amf/)](https://www.linkedin.com/in/brayan-amf/) 
 | 
@@ -30,4 +30,6 @@ Sou um FullStack Developer, em busca sempre de melhorar a cada dia :computer:
 <br/ >
 
 ---
+<img align="left" alt="brayanf13's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanf13&theme=dark" />
 <img align="left" alt="brayanf13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brayanf13&show_icons=true&hide_border=true&theme=dark" />
+
