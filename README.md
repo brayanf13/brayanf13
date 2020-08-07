@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Busco resolver problemas utilizando a programação.
-Sou um FullStack Developer, em busca sempre de melhorar a cada dia :computer:
+Sou um FullStack Developer jr, em busca sempre de melhorar a cada dia :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Exception Jr && Laboratório de Computação Científica (LCC)**
  <br/> :black_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e backend usando NodeJS
@@ -12,6 +12,12 @@ Sou um FullStack Developer, em busca sempre de melhorar a cada dia :computer:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Brayan_Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/brayan-amf/)](https://www.linkedin.com/in/brayan-amf/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-brayan.amf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brayan.amf@gmail.com)](mailto:brayan.amf@gmail.com)
+|
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/brayan_amf)](https://www.instagram.com/brayan_amf)
+|
+[![Facebook Badge](https://img.shields.io/badge/Facebook-darkBlue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/brayan.amf/)](https://www.facebook.com/brayan.amf/)
+|
+[![Rocketseat Badge](https://img.shields.io/badge/Rocketseat-purple?style=flat-square&logo=https://rocketseat.gallerycdn.vsassets.io/extensions/rocketseat/rocketseatreactjs/3.0.2/1588456824702/Microsoft.VisualStudio.Services.Icons.Default)](https://app.rocketseat.com.br/me/brayan-amf)
 
 ---
 
