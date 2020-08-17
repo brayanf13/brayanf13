@@ -9,15 +9,19 @@ Sou um FullStack Developer jr, em busca sempre de melhorar a cada dia :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, JavaScript & TypeScript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, GTA, séries e animes
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Brayan_Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/brayan-amf/)](https://www.linkedin.com/in/brayan-amf/) 
+ <br/> :email: &nbsp; Entre em contato comigo: 
+[![Linkedin Badge](https://img.shields.io/badge/-Brayan_Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/brayan-amf/)](https://www.linkedin.com/in/brayan-amf/)
 | 
-[![Gmail Badge](https://img.shields.io/badge/-brayan.amf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brayan.amf@gmail.com)](mailto:brayan.amf@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-brayan.amf@gmail.com-gray?labelColor=darkred&style=plastic&logo=gmail&logoColor=white&link=mailto:brayan.amf@gmail.com)](mailto:brayan.amf@gmail.com)
 |
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/brayan_amf)](https://www.instagram.com/brayan_amf)
+[![Instagram](https://img.shields.io/badge/Instagram-brayan_amf-gray?labelColor=orange&style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/brayan_amf)](https://www.instagram.com/brayan_amf)
 |
-[![Facebook Badge](https://img.shields.io/badge/Facebook-darkBlue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/brayan.amf/)](https://www.facebook.com/brayan.amf/)
+[![Facebook](https://img.shields.io/badge/Facebook-darkblue?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/brayan.amf/)](https://www.facebook.com/brayan.amf/)
 |
-[![Rocketseat Badge](https://img.shields.io/badge/Rocketseat-purple?style=flat-square&logo=https://rocketseat.gallerycdn.vsassets.io/extensions/rocketseat/rocketseatreactjs/3.0.2/1588456824702/Microsoft.VisualStudio.Services.Icons.Default)](https://app.rocketseat.com.br/me/brayan-amf)
+[![Rocketseat](https://img.shields.io/badge/Rocketseat-purple?style=plastic&link=https://app.rocketseat.com.br/me/brayan-amf)](https://app.rocketseat.com.br/me/brayan-amf)
+|
+[![Twitch](https://img.shields.io/badge/Twitch-purple?style=plastic&logo=twitch&logoColor=white&link=https://www.twitch.tv/brayanf13)](https://www.twitch.tv/brayanf13)
+
 
 ---
 
