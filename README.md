@@ -4,7 +4,7 @@
 Busco resolver problemas utilizando a programação.
 Sou um FullStack Developer jr, em busca sempre de melhorar a cada dia :computer:
 
- :rocket:  &nbsp; Estou trabalhando no **Laboratório de Computação Científica (LCC-UNIFESSPA)**
+ :rocket:  &nbsp;
  <br/> :black_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e backend usando NodeJS
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, JavaScript & TypeScript
