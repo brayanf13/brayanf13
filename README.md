@@ -8,7 +8,7 @@ Sou um FullStack Developer jr, em busca sempre de melhorar a cada dia :computer:
  <br/> :black_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e backend usando NodeJS
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, JavaScript & TypeScript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, GTA, séries e animes
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, FIFA, GTA, séries, filmes e animes
  <br/> :email: &nbsp; Entre em contato comigo: 
  <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Brayan_Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/brayan-amf/)](https://www.linkedin.com/in/brayan-amf/)
