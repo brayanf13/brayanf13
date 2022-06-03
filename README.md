@@ -9,7 +9,6 @@ Sou um FullStack Developer jr, em busca sempre de melhorar a cada dia :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, JavaScript & TypeScript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, GTA, séries e animes
- <br/> 💬  &nbsp; Faço lives na twitch nas horas vagas.
  <br/> :email: &nbsp; Entre em contato comigo: 
  <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Brayan_Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/brayan-amf/)](https://www.linkedin.com/in/brayan-amf/)
@@ -21,8 +20,7 @@ Sou um FullStack Developer jr, em busca sempre de melhorar a cada dia :computer:
 [![Facebook](https://img.shields.io/badge/Facebook-darkblue?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/brayan.amf/)](https://www.facebook.com/brayan.amf/)
 |
 [![Rocketseat](https://img.shields.io/badge/Rocketseat-purple?style=plastic&link=https://app.rocketseat.com.br/me/brayan-amf)](https://app.rocketseat.com.br/me/brayan-amf)
-|
-[![Twitch](https://img.shields.io/badge/Twitch-purple?style=plastic&logo=twitch&logoColor=white&link=https://www.twitch.tv/brayanf13)](https://www.twitch.tv/brayanf13)
+
 
 
 ---
